@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup Label="Simplificando el uso de la consola">
+    <Using Include="System.Console" Static="true" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Fundamentos/02-Tipos-Basicos/" />
+    <Folder Include="Fundamentos/05-Patron-Adaptador/" />
+    <Folder Include="Fundamentos/06-Inyeccion-Dependencias/" />
+    <Folder Include="Fundamentos/07-Metodos-Sincronos/" />
+    <Folder Include="Fundamentos/08-Atributos/" />
+  </ItemGroup>
+
+</Project>
