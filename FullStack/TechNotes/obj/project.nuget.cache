@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mCTR6umyt6c=",
+  "success": true,
+  "projectFilePath": "/Users/cjavatz/Documents/Programacion/curso-blazor/FullStack/TechNotes/TechNotes.csproj",
+  "expectedPackageFiles": [
+    "/Users/cjavatz/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.9/microsoft.aspnetcore.app.internal.assets.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
